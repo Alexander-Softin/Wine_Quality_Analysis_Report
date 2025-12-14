@@ -11,7 +11,7 @@
 
 ## 📁 Структура
 - `Wine_Quality_Analysis_Report.ipynb` - основной отчет
-- `winequalityN_Mirzoyan.ipynb` - полный анализ
+- `winequalityN_BritvinAV.ipynb` - полный анализ
 - `winequalityN.csv` - данные
 - `requirements.txt` - зависимости
 
